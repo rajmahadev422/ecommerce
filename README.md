@@ -5,7 +5,7 @@ A full-featured e-commerce app built with the latest stable versions of **Next.j
 ## Dependency Versions
 
 | Package | Version |
-|---|---|
+| --- | --- |
 | next | ^15.2.3 |
 | react + react-dom | ^19.1.0 |
 | typescript | ^5.8.2 |
@@ -68,7 +68,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Project Structure
 
-```
+```plaintext
 ├── app/
 │   ├── api/
 │   │   ├── auth/           # login · register · me · logout
